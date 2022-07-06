@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
-  *main - Entry point  
-  *return is 0
-  */
+ *main - Entry point
+ *return is 0
+ */
 int main(void)
 {
-       	_putchar('_');
-       	_putchar('P');
+	_putchar('_');
+	_putchar('P');
 	_putchar('u');
        	_putchar('t');
        	_putchar('c');
