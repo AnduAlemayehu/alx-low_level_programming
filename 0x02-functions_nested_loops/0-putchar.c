@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main - Entry point
+ *main - print putchar
  *return is 1 success
  *On error, -1 is returned, and errno is set appropriately.
  */
@@ -15,6 +15,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putchar('\n');	
+	_putchar('\n');
 	return (0);
 }
