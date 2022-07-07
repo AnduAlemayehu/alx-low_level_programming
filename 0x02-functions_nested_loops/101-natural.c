@@ -32,7 +32,7 @@ int main(void)
 
 									}
 
-				_putchar("%d\n", s);
+				_putchar(s);
 
 
 

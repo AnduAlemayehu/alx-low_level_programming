@@ -23,7 +23,7 @@ int main(void)
 															++i;
 																}
 
-					_putchar("%ld\n", sum);
+					_putchar(sum);
 						return (0);
 }
 

@@ -28,11 +28,11 @@ int main(void)
 
 									if (i == 0)
 
-													_putchar("%ld", j);
+													_putchar(j);
 
 											else if (i == 1)
 
-															_putchar(", %ld", k);
+															_putchar(k);
 
 													else
 
